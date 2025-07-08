@@ -1,0 +1,8 @@
+    1  git init 
+    2  git add *
+    3  git rm --cached endoflife.date
+    4  git rm --cached endoflife.date -f
+    5  git commit -m 'New Changes'
+    6  git push
+    7  ls -lrt
+    8  history > history
