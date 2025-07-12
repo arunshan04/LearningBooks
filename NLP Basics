@@ -9,3 +9,11 @@ below methos use to apply the quantization
 1. Activation aware weight quantization.
 2. Smoothquant
 3. GPTQ
+
+
+In-Context Learning: Model learns from the examples provided thru the context.
+
+Low-Rank Adaption(LORA) - Fine Tunning the model for specific task. which uses very limited computation powers to tune it.
+
+
+Multi Agent Blue print: https://www.anthropic.com/engineering/built-multi-agent-research-system
