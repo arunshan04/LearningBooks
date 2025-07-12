@@ -2,3 +2,10 @@
 
 ***LLM Quanization***
 Quanization is the process to reduce the memory and computaion requirements from hih precision format FP32 to lower precession formats FP16,int8,int4 formats.
+
+
+below methos use to apply the quantization
+
+1. Activation aware weight quantization.
+2. Smoothquant
+3. GPTQ
